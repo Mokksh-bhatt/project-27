@@ -1,4 +1,4 @@
-#Interactive Newton's Cradle Physics Simulation
+# Interactive Newton's Cradle Physics Simulation
 Built with JavaScript, Matter.js, and p5.js
 
 Overview
